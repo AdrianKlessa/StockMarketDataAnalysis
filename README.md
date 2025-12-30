@@ -1,2 +1,1 @@
-# StockMarketDataAnalysis
-Data analysis on a US stock market dataset
+The file `stock-market-data-eda.ipynb` contains a data analysis on the Kaggle [Huge Stock Market Dataset](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs). In addition, [U.S. Treasury Yields](https://www.kaggle.com/datasets/guillemservera/us-treasury-yields-daily) data is used to risk-adjust asset returns when calculating the Sharpe ratio for different stocks and ETFs.
